@@ -22,9 +22,9 @@ repository               : "AbrahamSanders/abrahamsanders.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : &name
+  name             : *name
   pronouns         : # example: "she/her"  
-  bio              : &description
+  bio              : *description
   location         : "Troy, NY, USA"
   employer         : "Rensselaer Polytechnic Institute"
   uri              : # URL
